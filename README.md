@@ -1,4 +1,4 @@
-# Test
+# EAT-DA-Burger
   ![github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
@@ -19,8 +19,8 @@ To install necessary dependencies run the following command
 npm install
 
 ## Usage
+Go the [Deployed site](https://stark-atoll-35452.herokuapp.com/) and you can add a burger, devour one of the burgers that is ready to be eaten, or you can delete a burger.
 
-Go to the link to the deployed site and enter new burgers or devour burgers that are already loaded.
 
 ## License
       
