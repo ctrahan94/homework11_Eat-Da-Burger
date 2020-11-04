@@ -1,0 +1,20 @@
+/* Background color, bootstrap
+
+*/
+
+body {
+  background-color: #d4000a;
+}
+
+img {
+  color: #f7c503;
+  padding-top: 3%;
+}
+
+h1{
+  text-align: center;
+}
+
+h1, h2, h3, p, li, label  {
+  color: whitesmoke;
+}
